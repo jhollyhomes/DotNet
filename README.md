@@ -1,3 +1,3 @@
 # DotNet
 
-WIKI is used to document DOTNET CLI
+WIKI is used to document different technologies
