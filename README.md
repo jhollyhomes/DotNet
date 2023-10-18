@@ -1,3 +1,3 @@
 # DotNet
 
-WIKI is used to document different technologies
+Please view the repository WIKI for documentation
